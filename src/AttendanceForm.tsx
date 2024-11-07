@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import logoApymsa from "./assets/img/logoApymsa.png";
+import logoApymsa from './assets/img/logoApymsa.png';
 import { colors, typography } from './assets/css/theme';
 import { btn, img, formAttendance, inputForm} from './assets/css/attendancetheme';
 
